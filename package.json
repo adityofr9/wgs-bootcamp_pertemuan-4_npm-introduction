@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_npm-introduction/issues"
   },
-  "homepage": "https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_npm-introduction#readme"
+  "homepage": "https://github.com/adityofr9/wgs-bootcamp_pertemuan-4_npm-introduction#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
 }
